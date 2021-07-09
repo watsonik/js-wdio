@@ -1,5 +1,4 @@
 const Page = require('./pageobjects/page');
-const assert = require('assert');
 
 describe('WebdriverIO page', () => {
 
